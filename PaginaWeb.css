@@ -1,0 +1,62 @@
+.video{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 90px;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 24px;
+}
+.columna{
+    flex: 1;
+    padding: 50px;
+    margin: 0px;
+    background-color: rgb(179, 142, 235);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 90%;
+}
+body{
+    background-image: url(https://art.ngfiles.com/images/6193000/6193217_1399081_kalamarie_untitled-6193217.540161ef9163a7b53972b400dc06303d.webp?f1731111244);
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    
+}
+.texto1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1;
+    padding: 100px;
+    margin: 50px;
+    background-color: rgb(179, 142, 235);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   opacity: 90%;
+   font-size: 20px;
+}
+.texto2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1;
+    padding: 100px;
+    margin: 50px;
+    background-color: rgb(179, 142, 235);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   opacity: 90%;
+   font-size: 20px;
+}
+.video2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
